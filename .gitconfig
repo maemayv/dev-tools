@@ -1,0 +1,7 @@
+[user]
+	email = maevereilly21@gmail.com
+	name = Maeve
+[core]
+	editor = vim
+[pager]
+	branch = false
